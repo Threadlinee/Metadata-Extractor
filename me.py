@@ -73,7 +73,6 @@ def virustotal_check(file_path, sha256):
     }
     vt_result = []
     try:
-        # Query by hash first
         resp = requests.get(VT_BASE_URL + sha256, headers=headers)
         if resp.status_code == 200:
             data = resp.json()
