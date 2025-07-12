@@ -17,7 +17,7 @@ Parses metadata from:
 # ⚙️ PE File Inspection
 Reads internal structures of Windows executables (.exe) using pefile, revealing headers, sections, entry points, and more.
 
-🛡 VirusTotal Integration
+# 🛡 VirusTotal Integration
 Automatically checks files against VirusTotal using their public API. If a file isn't found, it uploads it for live scanning.
 
 📦 Generic File Fingerprinting
