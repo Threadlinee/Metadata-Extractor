@@ -90,7 +90,6 @@ def virustotal_check(file_path, sha256):
             else:
                 vt_result.append("❓ No conclusive result.")
         elif resp.status_code == 404:
-            # Not found, upload file
             vt_result.append("File not found on VirusTotal. Uploading for analysis...")
             with open(file_path, 'rb') as f:
                 files = {'file': (os.path.basename(file_path), f)}
