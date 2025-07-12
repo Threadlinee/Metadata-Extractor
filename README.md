@@ -26,7 +26,7 @@ Displays file size, MIME type, and cryptographic hashes (MD5, SHA256) for any fi
 #🧵 Multithreaded UI with Animation
 Responsive interface powered by Tkinter, providing visual feedback while scanning.
 
-🚀 Installation
+# 🚀 Installation
 Clone the repository
 
 git clone https://github.com/Threadlinee/Metadata-Extractor.git
