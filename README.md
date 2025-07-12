@@ -31,7 +31,7 @@ Clone the repository
 
 git clone https://github.com/Threadlinee/Metadata-Extractor.git
 cd Metadata-Extractor
-Install required dependencies
+**Install required dependencies**
 Make sure you have Python 3.8+ installed, then run:
 
 pip install -r requirements.txt
