@@ -187,7 +187,6 @@ def scan_with_animation(file, scan_func):
         step()
     def do_scan():
         result = scan_func(file)
-        # Ensure result_holder[0] is always a list of strings
         if not isinstance(result, list):
             result = [str(result)] if result is not None else []
         result_holder[0] = result
