@@ -206,7 +206,6 @@ def open_files():
     for file in files:
         scan_with_animation(file, extract_metadata)
 
-# GUI Setup
 root = Tk()
 root.title("Metadata Extractor Pro")
 root.geometry("800x600")
