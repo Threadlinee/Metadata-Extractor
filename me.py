@@ -191,7 +191,6 @@ def scan_with_animation(file, scan_func):
             result = [str(result)] if result is not None else []
         result_holder[0] = result
         anim_running[0] = False
-        # Show results in main thread
         def show_results():
             output.delete(1.0, "end")
             output.insert("end", f"📄 File: {file}\n", "filename")
