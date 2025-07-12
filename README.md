@@ -77,7 +77,7 @@ This project is licensed under the MIT License.
 # 🌐 Author
 **Threadlinee**
 🔗 GitHub
-🔍 Creator of Metadata Extractor Pro
+🔍 **Creator of Metadata Extractor Pro**
 
 # ☕ Support If you find this tool useful, drop a ⭐ or fork it. Contributions and proxy improvements are welcome. [![Buy Me a Coffee](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G114SBVV)
 
