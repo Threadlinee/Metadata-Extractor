@@ -37,7 +37,7 @@ Make sure you have Python 3.8+ installed, then run:
 pip install -r requirements.txt
 Run the application
 
-python me.py
+python metadata_extractor.py
 🧠 Use Cases
 Digital Forensics: Identify hidden metadata or malicious indicators in user-submitted files.
 
