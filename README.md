@@ -56,7 +56,7 @@ File Type	Support Level
 **.exe**	PE structure + VirusTotal
 Other	Generic file details
 
-🔐 VirusTotal API Key
+# 🔐 VirusTotal API Key
 To enable VirusTotal scanning, replace the placeholder API key in the script with your own:
 
 💡 TODOs / Future Improvements
