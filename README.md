@@ -8,7 +8,7 @@ Extracts EXIF metadata from image files (.jpg, .png, .tiff, etc.), including cam
 # 📄 Document Metadata Analysis
 Parses metadata from:
 
-PDFs (.pdf)
+**PDFs** (.pdf)
 
 **Word documents** (.docx)
 
