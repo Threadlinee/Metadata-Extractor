@@ -10,7 +10,7 @@ Parses metadata from:
 
 PDFs (.pdf)
 
-Word documents (.docx)
+**Word documents** (.docx)
 
 **Excel spreadsheets** (.xlsx)
 
