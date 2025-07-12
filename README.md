@@ -23,7 +23,7 @@ Automatically checks files against VirusTotal using their public API. If a file 
 # 📦 Generic File Fingerprinting
 Displays file size, MIME type, and cryptographic hashes (MD5, SHA256) for any file format.
 
-🧵 Multithreaded UI with Animation
+# 🧵 Multithreaded UI with Animation
 Responsive interface powered by Tkinter, providing visual feedback while scanning.
 
 🚀 Installation
