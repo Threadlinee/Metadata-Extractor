@@ -1,7 +1,7 @@
-📂 Metadata Extractor Pro
+# 📂 Metadata Extractor Pro
 Metadata Extractor Pro is a powerful, GUI-based tool for extracting metadata from various file formats and scanning them for potential malicious indicators. Whether you're a cybersecurity analyst, digital forensic examiner, or a curious user, this tool provides a comprehensive view into what's hidden behind the files you use every day.
 
-🔍 Features
+# 🔍 Features
 🖼 Image Metadata Extraction
 Extracts EXIF metadata from image files (.jpg, .png, .tiff, etc.), including camera info, GPS data, and timestamps.
 
@@ -78,4 +78,6 @@ This project is licensed under the MIT License.
 Threadlinee
 🔗 GitHub
 🔍 Creator of Metadata Extractor Pro
+
+# ☕ Support If you find this tool useful, drop a ⭐ or fork it. Contributions and proxy improvements are welcome. [![Buy Me a Coffee](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G114SBVV)
 
