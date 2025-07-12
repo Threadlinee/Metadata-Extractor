@@ -38,7 +38,7 @@ pip install -r requirements.txt
 **Run the application**
 
 python metadata_extractor.py
-🧠 Use Cases
+# 🧠 Use Cases
 Digital Forensics: Identify hidden metadata or malicious indicators in user-submitted files.
 
 Cybersecurity: Detect hidden payloads or suspicious executable structures.
