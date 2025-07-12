@@ -5,7 +5,7 @@ Metadata Extractor Pro is a powerful, GUI-based tool for extracting metadata fro
 🖼 Image Metadata Extraction
 Extracts EXIF metadata from image files (.jpg, .png, .tiff, etc.), including camera info, GPS data, and timestamps.
 
-📄 Document Metadata Analysis
+# 📄 Document Metadata Analysis
 Parses metadata from:
 
 PDFs (.pdf)
