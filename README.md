@@ -50,7 +50,7 @@ General Curiosity: Learn more about the files you interact with daily.
 # 📎 Supported File Types
 File Type	Support Level
 **.jpg**, **.png**	EXIF metadata
-.pdf	Document metadata
+**.pdf**	Document metadata
 .docx	Document properties
 .xlsx	Spreadsheet properties
 .exe	PE structure + VirusTotal
