@@ -68,7 +68,7 @@ Generate full scan reports in .txt or .html
 
 Add support for recursive folder scans
 
-🤝 Contributing
+# 🤝 Contributing
 Pull requests are welcome! If you have suggestions for improvements or want to add support for more file types, feel free to fork and submit a PR.
 
 📄 License
