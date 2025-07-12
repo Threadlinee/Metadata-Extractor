@@ -62,7 +62,7 @@ To enable VirusTotal scanning, replace the placeholder API key in the script wit
 # 💡 TODOs / Future Improvements
 Add drag & drop support
 
-Add support for .pptx, .mp4, and other formats
+Add support for **.pptx**, .mp4, and other formats
 
 Generate full scan reports in .txt or .html
 
