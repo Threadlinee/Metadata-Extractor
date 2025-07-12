@@ -126,7 +126,6 @@ def extract_pe_metadata(file_path):
                 name = getattr(section, 'Name', b'').decode(errors='ignore').strip()
                 size = getattr(section, 'SizeOfRawData', 'Unknown')
                 metadata.append(f"Section: {name} Size: {size}")
-        # Add VirusTotal check
         import hashlib
         with open(file_path, 'rb') as f:
             sha256 = hashlib.sha256(f.read()).hexdigest()
