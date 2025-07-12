@@ -53,7 +53,7 @@ File Type	Support Level
 **.pdf**	Document metadata
 **.docx**	Document properties
 **.xlsx**	Spreadsheet properties
-.exe	PE structure + VirusTotal
+**.exe**	PE structure + VirusTotal
 Other	Generic file details
 
 🔐 VirusTotal API Key
