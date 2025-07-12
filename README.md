@@ -20,7 +20,7 @@ Reads internal structures of Windows executables (.exe) using pefile, revealing 
 # 🛡 VirusTotal Integration
 Automatically checks files against VirusTotal using their public API. If a file isn't found, it uploads it for live scanning.
 
-📦 Generic File Fingerprinting
+# 📦 Generic File Fingerprinting
 Displays file size, MIME type, and cryptographic hashes (MD5, SHA256) for any file format.
 
 🧵 Multithreaded UI with Animation
