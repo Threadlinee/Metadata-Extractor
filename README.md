@@ -81,3 +81,4 @@ This project is licensed under the MIT License.
 
 # ☕ Support If you find this tool useful, drop a ⭐ or fork it. Contributions and proxy improvements are welcome. [![Buy Me a Coffee](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G114SBVV)
 
+## Educational Purposes Only!! Stay safe, stay ethical. ✌️
