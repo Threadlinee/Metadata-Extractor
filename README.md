@@ -47,7 +47,7 @@ Privacy Audits: Discover personal or location data embedded in photos or documen
 
 General Curiosity: Learn more about the files you interact with daily.
 
-📎 Supported File Types
+# 📎 Supported File Types
 File Type	Support Level
 .jpg, .png	EXIF metadata
 .pdf	Document metadata
