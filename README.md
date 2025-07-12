@@ -14,7 +14,7 @@ Parses metadata from:
 
 **Excel spreadsheets** (.xlsx)
 
-⚙️ PE File Inspection
+# ⚙️ PE File Inspection
 Reads internal structures of Windows executables (.exe) using pefile, revealing headers, sections, entry points, and more.
 
 🛡 VirusTotal Integration
