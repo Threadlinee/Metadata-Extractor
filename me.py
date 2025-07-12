@@ -14,7 +14,6 @@ def extract_image_metadata(file_path):
     metadata = []
     try:
         image = Image.open(file_path)
-        # Use getexif() if available, otherwise skip EXIF extraction
         exif_data = image.getexif() if hasattr(image, 'getexif') else None
         if exif_data:
             for tag_id, value in exif_data.items():
