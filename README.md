@@ -59,7 +59,7 @@ Other	Generic file details
 # 🔐 VirusTotal API Key
 To enable VirusTotal scanning, replace the placeholder API key in the script with your own:
 
-💡 TODOs / Future Improvements
+# 💡 TODOs / Future Improvements
 Add drag & drop support
 
 Add support for .pptx, .mp4, and other formats
