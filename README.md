@@ -51,7 +51,7 @@ General Curiosity: Learn more about the files you interact with daily.
 File Type	Support Level
 **.jpg**, **.png**	EXIF metadata
 **.pdf**	Document metadata
-.docx	Document properties
+**.docx**	Document properties
 .xlsx	Spreadsheet properties
 .exe	PE structure + VirusTotal
 Other	Generic file details
