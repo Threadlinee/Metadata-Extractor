@@ -74,7 +74,7 @@ Pull requests are welcome! If you have suggestions for improvements or want to a
 # 📄 License
 This project is licensed under the MIT License.
 
-🌐 Author
+# 🌐 Author
 Threadlinee
 🔗 GitHub
 🔍 Creator of Metadata Extractor Pro
