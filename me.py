@@ -198,7 +198,6 @@ def scan_with_animation(file, scan_func):
                 output.insert("end", f"{line}\n")
             output.insert("end", "\n" + "-"*60 + "\n\n")
         output.after(0, show_results)
-    # Start animation and scan in parallel
     threading.Thread(target=do_scan, daemon=True).start()
     animate()
 
