@@ -12,7 +12,7 @@ PDFs (.pdf)
 
 Word documents (.docx)
 
-Excel spreadsheets (.xlsx)
+**Excel spreadsheets** (.xlsx)
 
 ⚙️ PE File Inspection
 Reads internal structures of Windows executables (.exe) using pefile, revealing headers, sections, entry points, and more.
