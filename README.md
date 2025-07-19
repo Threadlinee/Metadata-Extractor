@@ -1,11 +1,11 @@
 # 📂 Metadata Extractor Pro
 Metadata Extractor Pro is a powerful, GUI-based tool for extracting metadata from various file formats and scanning them for potential malicious indicators. Whether you're a cybersecurity analyst, digital forensic examiner, or a curious user, this tool provides a comprehensive view into what's hidden behind the files you use every day.
 
-# 🔍 Features
+## 🔍 Features
 🖼 Image Metadata Extraction
 Extracts EXIF metadata from image files (.jpg, .png, .tiff, etc.), including camera info, GPS data, and timestamps.
 
-# 📄 Document Metadata Analysis
+## 📄 Document Metadata Analysis
 Parses metadata from:
 
 **PDFs** (.pdf)
@@ -14,16 +14,16 @@ Parses metadata from:
 
 **Excel spreadsheets** (.xlsx)
 
-# ⚙️ PE File Inspection
+## ⚙️ PE File Inspection
 Reads internal structures of Windows executables (.exe) using pefile, revealing headers, sections, entry points, and more.
 
-# 🛡 VirusTotal Integration
+## 🛡 VirusTotal Integration
 Automatically checks files against VirusTotal using their public API. If a file isn't found, it uploads it for live scanning.
 
-# 📦 Generic File Fingerprinting
+## 📦 Generic File Fingerprinting
 Displays file size, MIME type, and cryptographic hashes (MD5, SHA256) for any file format.
 
-#🧵 Multithreaded UI with Animation
+##🧵 Multithreaded UI with Animation
 Responsive interface powered by Tkinter, providing visual feedback while scanning.
 
 # 🚀 Installation
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 **Run the application**
 
 python metadata_extractor.py
-# 🧠 Use Cases
+## 🧠 Use Cases
 Digital Forensics: Identify hidden metadata or malicious indicators in user-submitted files.
 
 Cybersecurity: Detect hidden payloads or suspicious executable structures.
@@ -47,7 +47,7 @@ Privacy Audits: Discover personal or location data embedded in photos or documen
 
 General Curiosity: Learn more about the files you interact with daily.
 
-# 📎 Supported File Types
+## 📎 Supported File Types
 File Type	Support Level
 **.jpg**, **.png**	EXIF metadata
 **.pdf**	Document metadata
@@ -56,10 +56,10 @@ File Type	Support Level
 **.exe**	PE structure + VirusTotal
 Other	Generic file details
 
-# 🔐 VirusTotal API Key
+## 🔐 VirusTotal API Key
 To enable VirusTotal scanning, replace the placeholder API key in the script with your own:
 
-# 💡 TODOs / Future Improvements
+## 💡 TODOs / Future Improvements
 Add drag & drop support
 
 Add support for **.pptx**, **.mp4**, and other formats
@@ -68,17 +68,17 @@ Generate full scan reports in .txt or .html
 
 Add support for recursive folder scans
 
-# 🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome! If you have suggestions for improvements or want to add support for more file types, feel free to fork and submit a PR.
 
-# 📄 License
+## 📄 License
 This project is licensed under the **MIT License**.
 
-# 🌐 Author
+## 🌐 Author
 **Threadlinee**
 🔗 GitHub
 🔍 **Creator of Metadata Extractor Pro**
 
-# ☕ Support If you find this tool useful, drop a ⭐ or fork it. Contributions and proxy improvements are welcome. [![Buy Me a Coffee](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G114SBVV)
+## ☕ Support If you find this tool useful, drop a ⭐ or fork it. Contributions and proxy improvements are welcome. [![Buy Me a Coffee](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G114SBVV)
 
 ## Educational Purposes Only!! Stay safe, stay ethical. ✌️
